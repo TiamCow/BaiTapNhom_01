@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivateOTP</string>
+    <string name="otp_title">Xác thực OTP</string>
+    <string name="otp_subtitle">Nhập mã gồm 6 chữ số vừa được gửi tới số điện thoại của bạn</string>
+    <string name="verify_btn">Xác nhận</string>
+    <string name="resend_label">Gửi lại mã</string>
+    <string name="resend_sent">Đã gửi lại mã</string>
+    <string name="otp_error_fill">Vui lòng nhập đủ 6 chữ số</string>
+    <string name="otp_wrong">Mã không đúng, thử lại</string>
+    <string name="otp_success">Xác thực thành công</string>
+</resources>
